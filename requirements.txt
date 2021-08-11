@@ -31,12 +31,6 @@ inflection==0.5.1
 itsdangerous==1.1.0
 itypes==1.2.0
 Jinja2==2.11.2
-Kivy==2.0.0
-kivy-deps.angle==0.3.0
-kivy-deps.glew==0.3.0
-kivy-deps.sdl2==0.3.1
-Kivy-Garden==0.1.4
-lxml==4.6.3
 makefun==1.9.5
 Markdown==3.3.4
 MarkupSafe==1.1.1
