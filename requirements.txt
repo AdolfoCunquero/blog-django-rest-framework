@@ -48,7 +48,6 @@ pypiwin32==223
 python-dateutil==2.8.1
 python-multipart==0.0.5
 pytz==2020.5
-pywin32==300
 requests==2.25.1
 ruamel.yaml==0.17.10
 ruamel.yaml.clib==0.2.6
